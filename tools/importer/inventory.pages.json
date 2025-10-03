@@ -1,0 +1,470 @@
+{
+  "templates": [
+    {
+      "name": "'Portfolio Grid'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2024/vasant-eswarachari-joins-guidehouse",
+          "uuid": "70170786451a638d7ec1abdb5777d6a0cbb2649a"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2021/greg-heller-honored-with-leadership-award",
+          "uuid": "b1c0acd8f7e96f957ae8716bd3cfdcecbf346397"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2022/marianne-bailey-named-top-cyber-exec",
+          "uuid": "215af6d627502dd6747d539e9b875acab2cf0653"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2024/the-state-of-genai-today",
+          "uuid": "8b401f84223e16322fbe8e27965049ebdce30b19"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2024/robert-partee-joins-guidehouse",
+          "uuid": "f70ec05657e5dbf63e3e3ea557874fe163a02f58"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2024/amy-howland-ciso",
+          "uuid": "4f9b8eec38601802c72437cbf9d7ef71265e487c"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2025/celonis-public-sector-partner-of-the-year",
+          "uuid": "a88b26cde9a322a4873a6f5068d04884a0f7f5b4"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2025/guidehouse-expands-digital-leadership",
+          "uuid": "837fcae0b94984ef49c62d367698f0cfa3504fed"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2023/the-state-of-generative-ai",
+          "uuid": "eda0259ad9b4bc8092a3c4e4e90c4ee1989ab144"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2021/aferm-survey-release-2021",
+          "uuid": "33d0d1bf20cce566c1dbfbda80c3ecce5ace1db6"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2022/amanda-kane-named-2022-cyber-exec",
+          "uuid": "1b6c0552dac907b7faebb1ae730822728e9f4d0c"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2022/barry-coatesworth-lifetime-achievement-award",
+          "uuid": "03a5d882a804e8b24de2ce1dba049fad5c09e61b"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2022/jason-dury-named-top-supply-chain-exec-to-watch",
+          "uuid": "c9efe5791d02b0e6d70d4003010f0c8f4309b512"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2022/guidehouse-named-to-cybertech100-list",
+          "uuid": "4b1a04bd71596ee122e93c0dbe06e2504225e4e5"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2024/paul-phaneuf-leader-in-technology-award",
+          "uuid": "6e845b7fbed7229ef3bc2aec51e3283c508c4707"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2024/guidehouse-accelerates-digital-transformation-with-google-public-sector",
+          "uuid": "ff4d56e5f86dd5d15fa5c18a9bce0f94bbe60aa1"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2023/paul-phaneuf-and-amanda-kane-recognized-with-nvtc-awards",
+          "uuid": "8efddd545991669f11d09143973d85f89f7f3dd6"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2023/erik-garr-joins-guidehouse-to-lead-digital-financial-services",
+          "uuid": "d52b97a8e98511c6247207cd1c9ade0c4935c4fa"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2025/karen-odegaard-ai-leader",
+          "uuid": "91046a5dc035b29f7a181834f9e539e6a89599f1"
+        },
+        {
+          "url": "https://guidehouse.com/news/advanced-solutions/2025/welcoming-stuart-brown",
+          "uuid": "39773af70e2e77b24c836a50fd2776be8035052d"
+        }
+      ]
+    },
+    {
+      "name": "'Content Listing Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/britt-harter-and-cara-klansek-win-washingtonexec-pinnacle-awards",
+          "uuid": "da9732336dd9d97e409e78de387ef076b72ec67a"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/coalition-for-integrity-award",
+          "uuid": "b05d62d1205fe6669d127a5cfa6ac38102ab96d5"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/dc-united-military-appreciation-night",
+          "uuid": "8271f0f8708a22fa492e99259cb16fcede37b67c"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/don-strong-community-partner-award",
+          "uuid": "496c15410fc267a5458e51929161c605bd7fb81c"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/trueguide-spend-platform",
+          "uuid": "1e29169f8e10dadb3d5f85e831aa9cd49acb84d4"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/forbes-worlds-best-management-consulting-firm-2024",
+          "uuid": "e5f486affdb0e2e4cece7e83b6d7bfd459c2d9b8"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/beard-joins-bod",
+          "uuid": "a1e2d5646d60515ee86072dec4a783dae2ebc400"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/inc-5000-list-of-fastest-growing-companies",
+          "uuid": "9a33d11da327b346bceec7e2d23d6ff0afda130e"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/iso-20000-certification",
+          "uuid": "ed2991d8282037acfc1dedc48801122e5f35b356"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/new-leaders-next-phase-of-growth",
+          "uuid": "f4dc939301457afac55fb3b9900bc76c24f965a3"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/office-in-san-antonio",
+          "uuid": "f831ce15ea59ae4c80db0ec598f361c717649810"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/outstanding-military-friendly-culture-by-viqtory",
+          "uuid": "f417daaf26e8f0a0c1cac86770669bdf92bd89bb"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/one-of-americas-best-management-consulting-firms-by-forbes",
+          "uuid": "fcb5df8b556c3db08643f63a33bd3b791e4507bb"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2022/federal-cdo-survey-indicates-resources-key-to-continued-impact",
+          "uuid": "5e01de5216edc4b832da25bd7dc7d350f9c68c45"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-announces-new-partner-class-of-2024",
+          "uuid": "499615597d5e16642c1e20b69073e8791c07fa94"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2022/building-a-data-foundation",
+          "uuid": "e9e691c9a6f5a07bfe6acf1ab3cbf6a78563c7e5"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-digital-enterprise-solutions-appraised-at-cmmi-level-3",
+          "uuid": "01c916051c0e4069a0b52646172b7aca6b9ecd8f"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-completes-transaction-with-bain-capital",
+          "uuid": "25dbe90f7db320985c4b1a3c05e1241e7680ea84"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-cmo-joy-jarrett-honored-as-top-woman-in-marketing",
+          "uuid": "7c7282d4e2a31ca1670656cae3a5f1eec3dfef88"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-announces-new-partner-class-of-2023",
+          "uuid": "3fe265ea2a82e5c5ff7d69bbd6371a2ef49fa424"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/forbes-recognizes-guidehouse-as-one-of-the-best-management-consulting-firms",
+          "uuid": "2933c96f4b132ef3ccfe1a5c24d436ede71b34c9"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/ali-bokhari-as-global-managed-services-leader",
+          "uuid": "e78f1d7678f79e23cd711a9f9234f4b0a588f707"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2022/guidehouse-and-techsur-form-joint-venture",
+          "uuid": "ad677bbcabb5b3135bc8c930d1eede83b3ee2edf"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2022/guidehouse-achieves-global-2022-great-place-to-work-certification",
+          "uuid": "b5a9244690188cba1627656ea0ebf6413bef7de6"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/agreement-to-settle-us-doj-civil-investigation",
+          "uuid": "8f76d88ddf9c86c0675b93497398281e564b12be"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-earns-2024-military-friendly-employer-designation",
+          "uuid": "478e04480025222ce3e012e675c8a22d7ea74ec8"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-honored-with-pro-patria-award",
+          "uuid": "168a2ab8583ced3463dc615137058df356fc187d"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-to-be-acquired-by-bain-capital-private-equity",
+          "uuid": "981f762f2442e09dc0aa4a2da4295c95d74808db"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/joy-jarrett-named-top-marcom-execs-to-watch-in-2023",
+          "uuid": "d0e98972865a1d6ae73ec6a9d1014085fc031c0c"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2023/washingtonexec-names-chas-shaffer-cio-of-the-year",
+          "uuid": "380225a7201b976fe4ba3ecb95d5f7be2e92b797"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/scott-mcintyre-named-wash100-award-winner",
+          "uuid": "d29e09011ca7927329f65422af4cd9e7f1935846"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2024/partnership-with-dc-united",
+          "uuid": "3e4d500bed07964af268795d403788a680549080"
+        }
+      ]
+    },
+    {
+      "name": "Unfortunately, I cannot view or analyze the image you",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/insights",
+          "uuid": "6dcb4d4042336297aa86c9234312e05f156eb740"
+        },
+        {
+          "url": "https://guidehouse.com/locations",
+          "uuid": "7c2f30e560038445f158e32cd176a31af8b7c3f8"
+        },
+        {
+          "url": "https://guidehouse.com/services",
+          "uuid": "065ef6a3302b1cccf317b8c0fb5c7d72cc5a619f"
+        },
+        {
+          "url": "https://guidehouse.com/industries",
+          "uuid": "dc1eb73bd61187c28aaf59d43727f9ef33d0e947"
+        },
+        {
+          "url": "https://guidehouse.com/news-and-events",
+          "uuid": "d40cd397fadc04eb04876f54f8e177a8c4b86d1b"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Overview'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/industries/defense-and-security",
+          "uuid": "e5b830c5c5660d7f103617c69501bd3b9934c0e5"
+        },
+        {
+          "url": "https://guidehouse.com/industries/state-local-government",
+          "uuid": "0d038c4c1182d746f048b61261ed3fbe388c2b8f"
+        },
+        {
+          "url": "https://guidehouse.com/industries/communities-energy-infrastructure",
+          "uuid": "d2eca54b87c3c10a7b6c2cddb5c8092e05a161c3"
+        },
+        {
+          "url": "https://guidehouse.com/industries/financial-services",
+          "uuid": "5646bf794ee868e8944a0284180da8a8c4ac9d63"
+        },
+        {
+          "url": "https://guidehouse.com/industries/health",
+          "uuid": "2d3ddbb504af0efe2840f6d3dbe53de3d03034e3"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/services/ai-and-data",
+          "uuid": "a1fa6758d07c2318aafd8aabc7d380a53775d3ac"
+        },
+        {
+          "url": "https://guidehouse.com/services/compliance-and-processing",
+          "uuid": "6ff6bf607418bd189567f2b7f356cb404963d761"
+        },
+        {
+          "url": "https://guidehouse.com/services/mission-and-growth",
+          "uuid": "1f7135fd77342850f9c9f665bd40e089a614cf97"
+        },
+        {
+          "url": "https://guidehouse.com/services/care-delivery",
+          "uuid": "bc2cd19b69e36c9330fd54bf0a4abec71ab4ce8b"
+        },
+        {
+          "url": "https://guidehouse.com/services/managed-services",
+          "uuid": "1206155b7ff699cba13ddbe92d2fe6ee6593df14"
+        },
+        {
+          "url": "https://guidehouse.com/services/finance-and-revenue",
+          "uuid": "ad152562021840cd0df46edd768ad50fa364a1d6"
+        },
+        {
+          "url": "https://guidehouse.com/services/energy-and-resilience",
+          "uuid": "29c7adfc6a85497ea8cb219a093a32daf86c210e"
+        },
+        {
+          "url": "https://guidehouse.com/services/financial-management",
+          "uuid": "c7df266ccc1b8302c7a4d79cb0be929a4ea0aa3e"
+        },
+        {
+          "url": "https://guidehouse.com/services/cloud-and-app-development",
+          "uuid": "1df47e78af72a7aaf955d260ea2b62d3a0c041b8"
+        },
+        {
+          "url": "https://guidehouse.com/services/grants-management",
+          "uuid": "5e433ed66c85436a9cd7920e20c0ee1c84d23d61"
+        },
+        {
+          "url": "https://guidehouse.com/services/change-management",
+          "uuid": "3b83d9411230166a08680f39ba41969b9683a763"
+        },
+        {
+          "url": "https://guidehouse.com/services/financial-crimes-and-fraud",
+          "uuid": "ed646d7eb8d5b37cfd286ca0f0bfd890e4f8640c"
+        },
+        {
+          "url": "https://guidehouse.com/services/infrastructure-recovery-and-resilience",
+          "uuid": "0c701d8029bad499d6722ed0c613a5ff551648fb"
+        },
+        {
+          "url": "https://guidehouse.com/services/cybersecurity",
+          "uuid": "70262c036107c753d3a64eeeada8bcbd1948ebdc"
+        },
+        {
+          "url": "https://guidehouse.com/services/customer-experience",
+          "uuid": "e5d1762107ba70bc198fa467f6c3b89e8a476b84"
+        },
+        {
+          "url": "https://guidehouse.com/services/loans-securitization-and-trust-services",
+          "uuid": "2c91acba89ebf34b5c9dad04c1e66b5690226843"
+        },
+        {
+          "url": "https://guidehouse.com/services/governance-risk-and-compliance",
+          "uuid": "f4f77779653ba39e21fe50595d22f130eade41ef"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Grid'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/services/grants-management/trueguide-spend",
+          "uuid": "2ce0b523501f68ee66f6e421dd8d0e99605cda8d"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Gallery'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/services/financial-management/vitalaudit",
+          "uuid": "c05aa6187e25925423dbcb67e44cf3ca3e9a6e82"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/",
+          "uuid": "66ac9188fd89d749d34b9c56c4148345349b011b"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/services/change-management/revision",
+          "uuid": "85e6b081fa1c04440453fcf5416ec001d30762c7"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Overview'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/services/ai-and-data/insight-health",
+          "uuid": "8953168981b9ae993365f3434b4c55dd46586762"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/ai-investments-to-lead-multi-industry-transformation",
+          "uuid": "d6373caf3e8a2a040bffa0c46b85aaf46fc2cd5a"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/vinay-singh-to-lead-managed-services-and-technology",
+          "uuid": "db4904b7faf585352298646e53841db055aa23fb"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/pay-it-forward-internship-san-antonio",
+          "uuid": "c331b4ed40a2e3a56331eb495e81261f630aff0d"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/uso-family-field-day",
+          "uuid": "19b695abcf8430d6c8fb7c381cf1531fa59a4898"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/chennai-facility",
+          "uuid": "190911c9e5f9e88b4de66160700d9793c04d36dc"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/government-erm-maturity-continues-to-grow",
+          "uuid": "15264697b6173c031fd12678c7dae8b55ccb4675"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/emec-leadership-appointments",
+          "uuid": "1f7a477068f7e6baade055887513bf800f142a4f"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/american-red-cross-nova-board-of-directors",
+          "uuid": "8491ceec8262d24c8503cb356b6ec55bf6f9da27"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/ai-action-plan",
+          "uuid": "48842fce41e37c4562da951b3413473f6ccf466e"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/tech-guide",
+          "uuid": "93f7daf639faa76d9380bd6b38c7929de743bd2b"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/white-house-presidential-ai-challenge",
+          "uuid": "46d856e993f92ce1fc22f9233d806563d0c22345"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/eight-lots-on-ccs-mcf4-framework",
+          "uuid": "9a96146e5911bc2cc7a53458ae6662e4a834c51b"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/dc-united-military-appreciation-night",
+          "uuid": "151eac23fd996a859e4ec4de0591d710a5892aaa"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/military-friendly-employer-designation",
+          "uuid": "dedd03006e1f20ed15a0d92f47fe02427bc1cf9b"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/jennifer-moltzan-named-cpo",
+          "uuid": "5188368e9d77e228aab232b8ae06f50c6f7b9ca1"
+        },
+        {
+          "url": "https://guidehouse.com/news/corporate-news/2025/greg-meyer-to-drive-next-gen-growth",
+          "uuid": "1b4a8864e8a1c7a5f18563b0a241f13954c3b5e1"
+        }
+      ]
+    }
+  ]
+}
