@@ -2594,7 +2594,8 @@
           "uuid": "ff4d56e5-02-28c3b28214a2203a195aece11b125e34d881257d",
           "xpath": "/html[1]/body[1]/main[1]/section[2]"
         }
-      ]
+      ],
+      "key": "unknown13"
     },
     {
       "name": "Columns",
@@ -4392,7 +4393,8 @@
           "xpath": "/html[1]/body[1]/footer[1]/div[2]",
           "section": "section-2"
         }
-      ]
+      ],
+      "key": "unknown22"
     },
     {
       "name": "header",
@@ -5133,7 +5135,8 @@
           "uuid": "66ac9188-04-0d4676177a47694a06bd8a457be94deb396630b3",
           "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]"
         }
-      ]
+      ],
+      "key": "unknown26"
     },
     {
       "name": "Columns",
