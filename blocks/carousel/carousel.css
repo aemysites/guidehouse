@@ -153,85 +153,12 @@
 }
 
 
-/* Remove any extra top whitespace */
-.carousel.carousel38 {
-  margin-top: 0;
-  padding-top: 0;
-}
-
-/* Hide navigation buttons for clarity */
-.carousel.carousel38 .carousel-navigation-buttons {
-  display: none;
-}
-
-/* --- Indicators: vertical bars + labels, bottom-centered and spaced out --- */
-.carousel.carousel38 .carousel-slide-indicators {
-  display: flex;
-  position: absolute;
-  inset: auto 0 18px;
-  width: 100%;
-  background: none;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 80px;
-  padding: 0;
-  z-index: 10;
-  pointer-events: none;
-}
-
-.carousel.carousel38 .carousel-slide-indicator {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  pointer-events: auto;
-  min-width: 100px;
-}
-
-.carousel.carousel38 .carousel-slide-indicator button {
-  width: 3px;
-  height: 36px;
-  border-radius: 2px;
-  border: none;
-  background: #fff;
-  opacity: 0.28;
-  margin-bottom: 10px;
-  transition: opacity 0.2s, background 0.2s;
-  box-shadow: none;
-}
-
-.carousel.carousel38 .carousel-slide-indicator button:disabled {
-  opacity: 1;
-  background: #fff;
-}
-
-.carousel.carousel38 .carousel-slide-indicator button:focus-visible,
-.carousel.carousel38 .carousel-slide-indicator button:hover {
-  outline: 2px solid #fff;
-  outline-offset: 2px;
-}
-
-/* Simulated labels: show aria-label as tooltip if possible */
-.carousel.carousel38 .carousel-slide-indicator button::after {
-  display: block;
-  margin-top: 7px;
-  font-size: 1rem;
-  line-height: 1.1;
-  color: #fff;
-  opacity: 0.58;
-  white-space: nowrap;
-  letter-spacing: 0.01em;
-  text-align: center;
-  content: attr(aria-label);
-  pointer-events: none;
-  font-weight: 300;
-}
-
-/* --- Slide Content: narrower, tighter, more vertical, better separation --- */
 .carousel.carousel38 .carousel-slide .carousel-slide-content {
   background: none;
+  box-shadow: none;
   margin: 0;
-  padding: 0 0 10px 10px;
-  max-width: 320px;
+  padding: 0 0 36px 32px;
+  max-width: 900px;
   width: 100%;
   position: absolute;
   left: 0;
@@ -239,40 +166,62 @@
   top: auto;
   z-index: 9;
   color: #fff;
-  text-shadow: 0 2px 13px rgb(0 0 0 / 70%);
-  box-shadow: none;
+  text-shadow: 0 4px 24px rgb(0 0 0 / 80%);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
 }
 
-.carousel.carousel38 .carousel-slide .carousel-slide-content p:nth-of-type(2) {
-  font-size: 4.2rem;
-  line-height: 1.01;
-  font-weight: 200;
-  margin: 0 0 24px;
-  letter-spacing: 0.001em;
-  max-width: 98%;
-  overflow-wrap: break-word;
+.carousel.carousel38 .carousel-slide .carousel-slide-content p {
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 
+/* Heading - small faint uppercase */
 .carousel.carousel38 .carousel-slide .carousel-slide-content p:nth-of-type(1) {
-  font-size: 1.04rem;
-  line-height: 1.1;
+  font-size: 1.02rem;
+  line-height: 1.12;
   font-weight: 400;
-  opacity: 0.62;
-  margin-bottom: 40px;
+  text-transform: uppercase;
+  opacity: 0.58;
+  letter-spacing: 0.13em;
+  margin-bottom: 2px;
   margin-top: 0;
-  max-width: 90%;
+  max-width: 88%;
 }
 
-.carousel.carousel38 .carousel-slide .carousel-slide-content p:nth-of-type(1) ~ p:nth-of-type(2) {
-  margin-top: 12px;
+/* Main headline - very large, thin, sentence case, not uppercase */
+.carousel.carousel38 .carousel-slide .carousel-slide-content p:nth-of-type(2) {
+  font-size: 3.2rem;
+  line-height: 1.04;
+  font-weight: 100;
+  text-transform: none;
+  letter-spacing: 0;
+  opacity: 0.97;
+  margin-bottom: 18px;
+  margin-top: 0;
+  max-width: 96%;
+  overflow-wrap: break-word;
+  text-shadow: 0 8px 32px rgb(0 0 0 / 35%);
 }
 
-/* Always show CTA link below headline, matching target spacing and style */
+/* Subheadline, if present (p:nth-of-type(3)): slightly smaller & lighter than headline */
+.carousel.carousel38 .carousel-slide .carousel-slide-content p:nth-of-type(3) {
+  font-size: 2.1rem;
+  line-height: 1.08;
+  font-weight: 200;
+  letter-spacing: 0;
+  opacity: 0.89;
+  margin-bottom: 20px;
+  margin-top: 0;
+  max-width: 97%;
+  text-shadow: 0 6px 18px rgb(0 0 0 / 29%);
+}
+
+/* Learn More link, subtle and left-aligned */
 .carousel.carousel38 .carousel-slide .carousel-slide-content .button-container {
-  margin-top: 36px;
+  margin-top: 0;
   margin-bottom: 0;
   width: 100%;
   display: block;
@@ -284,47 +233,142 @@
   border: none;
   border-radius: 0;
   text-decoration: underline;
-  font-size: 1.16rem;
+  font-size: 1.09rem;
   font-weight: 400;
   box-shadow: none;
-  padding: 0;
-  margin-right: 22px;
+  padding: 0 0 2px;
+  margin-right: 14px;
   min-width: 0;
   min-height: 0;
-  transition: color 0.2s;
+  transition: color 0.2s, text-decoration-color 0.2s;
   display: inline-block;
   line-height: 1.2;
-}
-
-.carousel.carousel38 .carousel-slide .carousel-slide-content .button-container a.button:last-child {
-  margin-right: 0;
+  opacity: 0.84;
 }
 
 .carousel.carousel38 .carousel-slide .carousel-slide-content .button-container a.button:hover,
 .carousel.carousel38 .carousel-slide .carousel-slide-content .button-container a.button:focus {
   color: #d1fd3b;
   text-decoration: underline;
+  text-decoration-thickness: 2px;
+  opacity: 1;
 }
 
-/* Responsiveness: retain vertical block, tight placement, and wide indicator spacing */
+/* Page indicators - horizontal text links at bottom center */
+.carousel.carousel38 .carousel-slide-indicators {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 0;
+  padding: 0;
+  background: none;
+  z-index: 100;
+  pointer-events: auto;
+}
+
+.carousel.carousel38 .carousel-slide-indicator {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  min-width: 1px;
+  margin: 0 36px 0 0;
+  padding: 0;
+  position: relative;
+}
+
+.carousel.carousel38 .carousel-slide-indicator:last-child {
+  margin-right: 0;
+}
+
+.carousel.carousel38 .carousel-slide-indicator button {
+  width: auto;
+  height: auto;
+  border: none;
+  background: none;
+  opacity: 1;
+  margin: 0;
+  padding: 0 0 3px;
+  border-radius: 0;
+  box-shadow: none;
+  font: inherit;
+  font-size: 0.97rem;
+  font-weight: 400;
+  color: #bfc4c6;
+  letter-spacing: 0.01em;
+  text-shadow: 0 2px 4px rgb(0 0 0 / 35%);
+  transition: color 0.2s;
+  outline: none;
+  cursor: pointer;
+  position: relative;
+  line-height: 1.15;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.carousel.carousel38 .carousel-slide-indicator button[disabled] {
+  color: #fff;
+  font-weight: 500;
+  pointer-events: none;
+  text-shadow: 0 2px 8px rgb(0 0 0 / 33%);
+}
+
+.carousel.carousel38 .carousel-slide-indicator button[disabled]::after {
+  content: "";
+  display: block;
+  margin: 8px auto 0;
+  width: 80%;
+  max-width: 80px;
+  height: 2px;
+  background: #fff;
+  border-radius: 1px;
+  box-shadow: 0 0 3px 0 rgb(0 0 0 / 7%);
+}
+
+.carousel.carousel38 .carousel-slide-indicator button:not([disabled]):hover,
+.carousel.carousel38 .carousel-slide-indicator button:not([disabled]):focus-visible {
+  color: #fff;
+  text-decoration: underline;
+  outline: none;
+}
+
+/* Responsive adjustments */
 @media (width <= 900px) {
   .carousel.carousel38 .carousel-slide .carousel-slide-content {
-    max-width: 94vw;
-    padding-left: 6px;
-    padding-bottom: 6px;
+    max-width: 98vw;
+    padding-left: 7px;
+    padding-bottom: 12vw;
   }
 
   .carousel.carousel38 .carousel-slide .carousel-slide-content p:nth-of-type(2) {
-    font-size: 2.1rem;
-    max-width: 100vw;
+    font-size: 1.65rem;
+    margin-bottom: 11px;
+  }
+
+  .carousel.carousel38 .carousel-slide .carousel-slide-content p:nth-of-type(3) {
+    font-size: 1.05rem;
+    margin-bottom: 7px;
   }
 
   .carousel.carousel38 .carousel-slide-indicators {
-    gap: 18px;
     bottom: 8px;
   }
 
   .carousel.carousel38 .carousel-slide-indicator {
-    min-width: 54px;
+    margin-right: 12px;
+  }
+
+  .carousel.carousel38 .carousel-slide-indicator button {
+    font-size: 0.91rem;
+    padding-bottom: 2px;
+  }
+
+  .carousel.carousel38 .carousel-slide-indicator button[disabled]::after {
+    margin-top: 5px;
+    height: 1.5px;
   }
 }
