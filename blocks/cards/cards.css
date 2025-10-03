@@ -25,3 +25,128 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+
+.cards.cards11 {
+  background: linear-gradient(120deg, #c7fa30 0%, #8dd60d 100%);
+  min-height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  padding: 0;
+  position: relative;
+}
+
+.cards.cards11 ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(300px, 1fr));
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 56px 40px 56px 85px; /* Top, right, bottom, left: less left padding to integrate cards with heading area */
+  align-items: center;
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+}
+
+.cards.cards11 li {
+  background: #fff;
+  border: none;
+  box-shadow: none;
+  min-width: 300px;
+  max-width: 340px;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+  padding: 28px 22px 20px;
+  box-sizing: border-box;
+}
+
+.cards.cards11 .cards-card-image {
+  display: none;
+}
+
+.cards.cards11 .cards-card-body {
+  margin: 0;
+  padding: 0;
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.cards.cards11 .cards-card-body .button-container {
+  margin: 0;
+  padding: 0;
+}
+
+.cards.cards11 .cards-card-body .button-container .button {
+  display: block;
+  background: none;
+  color: #111;
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.22;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  white-space: normal;
+  overflow: visible;
+  text-overflow: unset;
+  max-width: 100%;
+  cursor: pointer;
+  letter-spacing: 0;
+}
+
+.cards.cards11 .cards-card-body .button-container .button::first-line {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #222;
+  letter-spacing: 0.01em;
+  line-height: 1.1;
+}
+
+/* Decorative lines overlay for each card */
+.cards.cards11 li::after {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  background: url('data:image/svg+xml;utf8,<svg width="100%" height="100%" viewBox="0 0 270 270" fill="none" xmlns="http://www.w3.org/2000/svg"><polyline points="0,0 270,45 45,135 270,135 90,270 270,225" stroke="%23d1ff56" stroke-width="1"/></svg>');
+  background-size: cover;
+  background-repeat: no-repeat;
+  content: "";
+}
+
+.cards.cards11 li * {
+  position: relative;
+  z-index: 2;
+}
+
+@media (width <= 900px) {
+  .cards.cards11 ul {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 32px 8px;
+  }
+
+  .cards.cards11 {
+    min-height: unset;
+    align-items: flex-start;
+  }
+
+  .cards.cards11 li {
+    max-width: 100%;
+    min-width: 0;
+  }
+}
